@@ -22,8 +22,8 @@ I design and build systems from scratch, then study their behavior in real-world
 
 ## Selected work
 
-- [probelet](https://github.con/Alkindi42/probelet) → system behavior & failure testing  
-- [tmux-bitwarden](https://github.con/Alkindi42/tmux-bitwarden) → terminal-based secret access workflow
+- [probelet](https://github.com/Alkindi42/probelet) → system behavior & failure testing  
+- [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) → terminal-based secret access workflow
 
 ## Writing
 
