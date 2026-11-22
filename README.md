@@ -26,6 +26,7 @@ I design and build systems from scratch, then study their behavior in real-world
 - [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) → terminal-based secret access workflow
 - [glabel](https://github.com/Alkindi42/gcp-labeler) → deterministic GCP labeling & drift-aware apply engine
 - [ipwho](https://github.com/Alkindi42/ipwho) → offline IP and hostname lookup across infrastructure resources
+- [diwan](https://github.com/Alkindi42/diwan) → local-LLM work classification & reliable timesheet automation
 
 ## Writing
 
